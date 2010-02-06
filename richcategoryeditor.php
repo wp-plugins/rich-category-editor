@@ -1,9 +1,9 @@
-<? 
+<?php 
 /*
 	Plugin Name: Rich Category Editor
 	Plugin URI: http://andreapernici.com/wordpress/rich-category-editor/
 	Description: Add TinyMce to the Category Description.
-	Version: 1.0.1
+	Version: 1.0.2
 	Author: Andrea Pernici
 	Author URI: http://www.andreapernici.com/
 	
@@ -85,7 +85,7 @@ if (!class_exists("RichCategoryEditor")) {
 		 *
 		 * Uses the WP API to get the meta data from the top of this file (comment)
 		 *
-		 * @return string The version like 1.0.1
+		 * @return string The version like 1.0.2
 		 */
 		function GetVersion() {
 			if(!function_exists('get_plugin_data')) {

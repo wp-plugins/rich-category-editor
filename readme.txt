@@ -4,7 +4,7 @@ Donate link: http://andreapernici.com/donazioni/
 Tags: TinyMCE, Category, TinyMCE in Categories
 Requires at least: 2.6
 Tested up to: 2.9.1
-stable tag: 1.0.1
+stable tag: 1.0.2
 
 Add TinyMce to the Category Description.
 
@@ -18,6 +18,9 @@ More info:
 * Check out the other [Wordpress plugins](http://www.andreapernici.com/wordpress/) by the same author, and read his blog: [Andrea](http://www.andreapernici.com).
 
 **Changelog**
+
+= 1.0.2 =
+* Fixed php open tag bug (thanks to Aaron Adams)
 
 = 1.0.1 =
 * Added function to use image in category and tag section -- RichCategoryEditor::display_desc() - thanks to Max Bond - http://www.q2w3.ru/
