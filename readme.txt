@@ -3,7 +3,7 @@ Contributors: Andrea Pernici
 Donate link: http://andreapernici.com/donazioni/
 Tags: TinyMCE, Category, TinyMCE in Categories
 Requires at least: 2.6
-Tested up to: 2.9.1
+Tested up to: 3.9
 stable tag: 1.0.2
 
 Add TinyMce to the Category Description.
